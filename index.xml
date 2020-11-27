@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codex</title>
+    <link>icarooliv.github.io/</link>
+    <description>Recent content on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Fri, 27 Nov 2020 00:09:35 -0300</lastBuildDate><atom:link href="icarooliv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>:Blog Post 4</title>
+      <link>icarooliv.github.io/blog/blog-post-4/</link>
+      <pubDate>Fri, 27 Nov 2020 00:09:35 -0300</pubDate>
+      
+      <guid>icarooliv.github.io/blog/blog-post-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>:Blog Post 3</title>
+      <link>icarooliv.github.io/blog/blog-post-3/</link>
+      <pubDate>Fri, 27 Nov 2020 00:09:33 -0300</pubDate>
+      
+      <guid>icarooliv.github.io/blog/blog-post-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>:Blog Post 2</title>
+      <link>icarooliv.github.io/blog/blog-post-2/</link>
+      <pubDate>Fri, 27 Nov 2020 00:09:31 -0300</pubDate>
+      
+      <guid>icarooliv.github.io/blog/blog-post-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog Post</title>
+      <link>icarooliv.github.io/blog/blog-post/</link>
+      <pubDate>Thu, 26 Nov 2020 22:30:24 -0300</pubDate>
+      
+      <guid>icarooliv.github.io/blog/blog-post/</guid>
+      <description>Default post frontmatter:
+ date: {{ .Date }}
+The post filename slug: &amp;quot;&amp;quot;
+Post description used for seo description: &amp;quot;&amp;quot;
+Post keywords used for seo keywords: []
+If true, the blog post will not be included in static build draft: true
+Categorize your post with tags tags: []
+Uses math typesetting math: false
+Includes a table of contents on screens &amp;gt;1024px toc: false</description>
+    </item>
+    
+    <item>
+      <title>Project 1</title>
+      <link>icarooliv.github.io/projects/project-1/</link>
+      <pubDate>Thu, 26 Nov 2020 22:30:24 -0300</pubDate>
+      
+      <guid>icarooliv.github.io/projects/project-1/</guid>
+      <description>Default post frontmatter:
+ date: {{ .Date }}
+The post filename slug: &amp;quot;&amp;quot;
+Post description used for seo description: &amp;quot;&amp;quot;
+Post keywords used for seo keywords: []
+If true, the blog post will not be included in static build draft: true
+Categorize your post with tags tags: []
+Uses math typesetting math: false
+Includes a table of contents on screens &amp;gt;1024px toc: false</description>
+    </item>
+    
+  </channel>
+</rss>

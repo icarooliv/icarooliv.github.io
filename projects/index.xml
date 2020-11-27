@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on codex</title>
+    <link>icarooliv.github.io/projects/</link>
+    <description>Recent content in Projects on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 26 Nov 2020 22:30:24 -0300</lastBuildDate><atom:link href="icarooliv.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>icarooliv.github.io/projects/project-1/</link>
+      <pubDate>Thu, 26 Nov 2020 22:30:24 -0300</pubDate>
+      
+      <guid>icarooliv.github.io/projects/project-1/</guid>
+      <description>Default post frontmatter:
+ date: {{ .Date }}
+The post filename slug: &amp;quot;&amp;quot;
+Post description used for seo description: &amp;quot;&amp;quot;
+Post keywords used for seo keywords: []
+If true, the blog post will not be included in static build draft: true
+Categorize your post with tags tags: []
+Uses math typesetting math: false
+Includes a table of contents on screens &amp;gt;1024px toc: false</description>
+    </item>
+    
+  </channel>
+</rss>
